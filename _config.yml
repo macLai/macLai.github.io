@@ -1,17 +1,17 @@
-title:            Site Title
-description:      Describe your website here.
+title:            maclai
+description:      maclai is here
 logo:             site-logo.png
-disqus_shortname: 
+disqus_shortname: maclai
 search:           true
 #Change url to your domain. Leave localhost server or blank when working locally.
-url:              http://localhost:4000
+url:              
 #cdn:			  http://cdn.localhost:4000
 
 # Owner/author information
 owner:
-  name:				Your Name
+  name:				maclai
   avatar:			bio-photo.jpg
-  email:			you@email.com
+  email:			laizewen01@gmail.com
   signoff_text:		Till next time
   signoff_link:		/about
   signature_image:	signature.png
