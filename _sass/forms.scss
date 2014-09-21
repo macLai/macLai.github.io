@@ -40,7 +40,7 @@ input,
 button,
 select,
 textarea {
-	font-family: $base-font; 
+	font-family: $base-font, Hiragino Sans GB, WenQuanYi Micro Hei; 
 	@include box-sizing(border-box); 
 }
 label {

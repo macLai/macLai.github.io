@@ -1,7 +1,7 @@
 // Headings
 // --------------------------------------------------
 h1, h2, h3, h4, h5, h6 {
-	font-family: $heading-font;
+	font-family: $heading-font, Hiragino Sans GB, WenQuanYi Micro Hei;
 }
 h1 {
 	@include font-size(32);
@@ -95,7 +95,7 @@ blockquote {
 	margin-left: -28px;
 	padding-left: 20px;
 	border-left: 8px solid $border-color;
-	font-family: $alt-font;
+	font-family: $alt-font, Hiragino Sans GB, WenQuanYi Micro Hei;
 	font-style: italic;
 }
 
@@ -124,7 +124,7 @@ p {
 // Code
 // --------------------------------------------------
 tt, code, kbd, samp, pre {
-	font-family: $code-font;
+	font-family: $code-font, Hiragino Sans GB, WenQuanYi Micro Hei;
 }
 p,
 li { 

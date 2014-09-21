@@ -62,7 +62,7 @@ audio:not([controls]) {
  */
 
 html {
-    font-family: sans-serif; /* 1 */
+    font-family: sans-serif, Hiragino Sans GB, WenQuanYi Micro Hei; /* 1 */
     -webkit-text-size-adjust: 100%; /* 2 */
     -ms-text-size-adjust: 100%; /* 2 */
 }
@@ -162,7 +162,7 @@ code,
 kbd,
 pre,
 samp {
-    font-family: monospace, serif;
+    font-family: monospace, serif, Hiragino Sans GB, WenQuanYi Micro Hei;
     font-size: 1em;
 }
 
@@ -276,7 +276,7 @@ button,
 input,
 select,
 textarea {
-    font-family: inherit; /* 1 */
+    font-family: inherit, Hiragino Sans GB, WenQuanYi Micro Hei; /* 1 */
     font-size: 100%; /* 2 */
     margin: 0; /* 3 */
 }
