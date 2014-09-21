@@ -77,6 +77,20 @@ svg:not(:root) {
     color: $success;
   }
 }
+.btn-tag {
+  background-color: $success;
+  padding: 2px 2px;
+  margin-bottom: 2px;
+  color: $white;
+  border-color: $success;
+  &:visited {
+    color: $white;
+  }
+  &:hover {
+    background-color: $white;
+    color: $success;
+  }
+}
 .btn-warning {
   background-color: $warning;
   color: $white;
