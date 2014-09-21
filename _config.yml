@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title:            MacLai
+title:            macLai's Blog
 locale:           en_US
 url:              http://maclai.tk
 
@@ -26,7 +26,7 @@ kramdown:
 
 # Site owner
 owner:
-  name: MacLai
+  name: macLai
   avatar: bio-photo.jpg
   bio: "Blogging is like debug..."
   email: laizewen01@gmail.com
