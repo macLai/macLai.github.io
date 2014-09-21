@@ -1,5 +1,5 @@
 ---
 layout: tag-index
-title: All Tagss
+title: All Tags
 excerpt: "A List of Tags"
 ---
