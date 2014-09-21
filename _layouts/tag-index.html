@@ -47,7 +47,7 @@
   <br /> <br /> 
 {% assign tags_list = nil %}
   {% for tag in site.tags %}
-    <h3>{{ tag[0] }}</h3>
+    <h3  id="{{ tag[0] }}">{{ tag[0] }}</h3>
     {% for post in tag[1] %}
       <article>
         {% if post.link %}
