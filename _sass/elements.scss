@@ -78,17 +78,16 @@ svg:not(:root) {
   }
 }
 .btn-tag {
-  background-color: $success;
+  background-color: #bbb;
   padding: 2px 2px;
   margin-bottom: 2px;
-  color: $white;
-  border-color: $success;
+  color: #fff;
+  border-color: $bbb;
   &:visited {
     color: $white;
   }
   &:hover {
-    background-color: $white;
-    color: $success;
+    background-color: $a2a2a2;
   }
 }
 .btn-tag span{
