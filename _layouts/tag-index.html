@@ -37,11 +37,11 @@
   {% assign tags_list = site.tags %}  
   {% if tags_list.first[0] == null %}
     {% for tag in tags_list %} 
-      <a href="#{{ tag }}" class="btn btn-tag">{{ tag }}</a>
+      <a href="#{{ tag }}" class="btn btn-tag">{{ tag }}<span>{{ tag.size }}</span></a>
     {% endfor %}
   {% else %}
     {% for tag in tags_list %} 
-      <a href="#{{ tag[0] }}" class="btn btn-tag">{{ tag[0] }}</a>
+      <a href="#{{ tag[0] }}" class="btn btn-tag">{{ tag[0] }}<span>{{ tag[0].size }}</span></a>
     {% endfor %}
   {% endif %}
   <br /> <br /> 

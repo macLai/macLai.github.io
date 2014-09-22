@@ -91,6 +91,11 @@ svg:not(:root) {
     color: $success;
   }
 }
+.btn-tag span{
+  font-size:10px;
+  font-size:.625rem;
+  vertical-align:super;
+}
 .btn-warning {
   background-color: $warning;
   color: $white;
