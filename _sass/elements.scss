@@ -83,13 +83,7 @@ svg:not(:root) {
   margin-bottom: 2px;
   color: $white;
   border-color: $success;
-  &:visited {
-    color: $white;
-  }
-  &:hover {
-    background-color: $white;
-    color: $success;
-  }
+  text-transform: uppercase;
 }
 .btn-tag span{
   font-size:10px;
