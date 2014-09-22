@@ -82,12 +82,13 @@ svg:not(:root) {
   padding: 2px 2px;
   margin-bottom: 2px;
   color: #fff;
-  border-color: $bbb;
+  border-color: #bbb;
   &:visited {
-    color: $white;
+    color: #fff;
   }
   &:hover {
-    background-color: $a2a2a2;
+    background-color: #a2a2a2;
+    color: #bbb;
   }
 }
 .btn-tag span{
