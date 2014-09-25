@@ -1,56 +1,30 @@
-# Site wide configuration
+markdown: rdiscount
+highlighter: true
+permalink: /:title.html
+name: "macLai"
+markdown: rdiscount
 
-title:            macLai's Blog
-locale:           en_US
-url:              http://maclai.tk
+author: "macLai"
+atom-baseurl: "maclai.tk"
+disqus: "MacLai"
 
+navigations:
+  - title: Archive
+    class: fa fa-list-ul
+    href: /archive.html
+  - title: Tags
+    class: fa fa-tags
+    href: /tags.html
+  - title: About
+    class: fa fa-user
+    href: /about.html
+  - title: Gallery
+    class: fa fa-film
+    href: http://foto.lhzhang.com
+  - title: Blogroll
+    class: fa fa-link
+    href: /links.html
+  - title: Subscribe
+    class: fa fa-rss
+    href: /atom.xml
 
-# Jekyll configuration
-
-permalink:   /:categories/:title/
-markdown:    kramdown
-highlighter: pygments
-sass:
-  sass_dir: _sass
-  style: compressed
-gems:
-  - jekyll-sitemap
-
-kramdown:
-  auto_ids: true
-  footnote_nr: 1
-  entity_output: as_char
-  toc_levels: 1..6
-  use_coderay: false
-
-
-# Site owner
-owner:
-  name: macLai
-  avatar: my-head.jpg
-  bio: "Blogging is like debug..."
-  email: laizewen01@gmail.com
-  disqus-shortname: maclai
-  twitter: HifiSun
-  facebook: #username
-  google:
-    plus: #username
-    analytics: UA-55017343-1
-    verify: 
-    ad-client: 
-    ad-slot: 
-  bing-verify: 
-  baidu-verify: CSzL91nJig
-  github: macLai
-  stackoverflow: #http://stackoverflow.com/users/123456/username
-  linkedin: #username
-  instagram: #username
-  lastfm: #username
-  tumblr: #username
-  pinterest: #username
-  foursquare: #username
-  steam: #username
-  dribbble: #username
-
-include: [".htaccess"]
-exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
