@@ -1,0 +1,9 @@
+---
+title: Ideas - 2014
+layout: post
+guid: urn:uuid:6a13c958-5347-4563-b269-750c2c9bd3c3
+tags:
+  -ideas 
+---
+
+1. 在不侵犯别人版权的情况下做实体书的检索，只告诉用户是那本书的第几页
