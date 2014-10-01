@@ -18,13 +18,11 @@ tags:
 * Mac和Iphone的客户端
 * Omnifocus
 * Python
-
 <br />
 ## 原则
 * 10点睡觉
 * 动漫时间放入计算
 * 以量做安排，不以时间
-
 <br />
 
 ## 安排
