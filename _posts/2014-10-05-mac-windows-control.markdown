@@ -28,8 +28,8 @@ Moom,Slate,SizeUp,Flexiglass
 ####Moom
 优点
 
-* 人气很高，应该是所有类似产品里人气最高的
-* 定制强大，可以任意增加pattern
+- 人气很高，应该是所有类似产品里人气最高的
+- 定制强大，可以任意增加pattern
 
 缺点
 
