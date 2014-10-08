@@ -22,31 +22,27 @@ macbook的一个强大优势是trackpad实在是太好用了...外加位置非�
 * 鼠标/trackpad简单调整窗口大小
 
 ###尝试过的工具
-Moom,Slate,SizeUp,Flexiglass
+Moom,Slate,SizeUp,Flexiglass,Pheonix
 简单说下心得和使用手感吧...
 
 ####Moom
 优点
-
 - 人气很高，应该是所有类似产品里人气最高的
 - 定制强大，可以任意增加pattern
 
 缺点
-
 * 价格略高 - 10刀
 * 没有Spaces之间的移动
 * 不能利用trackpad迅速调整
 
 ####Slate
 优点
-
 * 定制程度高
-* 免费开源
+* 免费开源,可以修改源码实现高级要求
 * 快捷键调整focus的窗口
 
 缺点
-
-* 需要拥有js的编程能力，至今未能完全hold住，不知道能不能写if语句之类的
+* 需要拥有js的编程能力
 * 没有Spaces之间的移动
 * 不能利用trackpad迅速调整
 * 默认的配置太垃圾
