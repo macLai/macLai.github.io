@@ -26,5 +26,5 @@ navigations:
     href: /atom.xml
   - title: Map
     class: fa fa-rss
-    href: /_map/index.html
+    href: /map/index.html
 
