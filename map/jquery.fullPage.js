@@ -473,6 +473,7 @@
 		* Creates the control arrows for the given section
 		*/
 		function createSlideArrows(section){
+			return;
 			section.find('.fp-slides').after('<div class="fp-controlArrow fp-prev"></div><div class="fp-controlArrow fp-next"></div>');
 
 			if(options.controlArrowColor!='#fff'){
